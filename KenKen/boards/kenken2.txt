@@ -1,0 +1,17 @@
+﻿abbcc
+aaddd
+eedff
+gghhi
+jkkll
+a 24 *
+b 2 -
+c 2 /
+d 15 +
+e 3 -
+f 1 -
+g 4 -
+h 5 +
+i 4 .
+j 2 .
+k 1 -
+l 4 -

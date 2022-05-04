@@ -1,0 +1,21 @@
+﻿abbccc
+adeefg
+ddhhfg
+iihhjk
+limmjk
+lnnooo
+a 3 /
+b 11 +
+c 24 *
+d 36 *
+e 11 +
+f 3 -
+g 2 /
+h 12 +
+i 24 *
+j 3 -
+k 1 -
+l 3 -
+m 6 *
+n 3 -
+o 90 *
